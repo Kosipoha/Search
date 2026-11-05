@@ -1,0 +1,4 @@
+config.json
+sent_vacancies.json
+sent_vacancies.json.tmp
+__pycache__/
